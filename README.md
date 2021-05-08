@@ -6,8 +6,6 @@
     <a href="https://github.com/Esponjosin" alt="GitHub"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/github.png"></a>
 </p>
 
-<p align ="center" style="margin: 20px;"><img src="https://komarev.com/ghpvc/?username=esponjosin&style=flat-square&label=Hyper+super+duper+ultra+deluxe+mega+tera+giga+penta+hexa+zetta+yotta+counter"></p>
-
 <details align="center">
     <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=esponjosin&show_icons=true&theme=tokyonight" />
@@ -123,3 +121,5 @@ export default class Esponjosin extends Person {
 }
 
 ```
+
+<p align ="center" style="margin: 20px;"><img src="https://komarev.com/ghpvc/?username=esponjosin&style=flat-square&label=Hyper+super+duper+ultra+deluxe+mega+tera+giga+penta+hexa+zetta+yotta+counter"></p>
