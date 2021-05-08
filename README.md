@@ -2,11 +2,11 @@
     <img align="center" class="image" src="https://esponjosin.xyz/assets/img/avatar.gif" style="border-radius:60px;" width="120" height="120">
 </p>
 
-<p align ="center" style="margin: 20px;"><img src="https://komarev.com/ghpvc/?username=esponjosin&style=flat-square&label=Hyper+super+duper+ultra+deluxe+mega+tera+giga+penta+hexa+zetta+yotta+counter"></p>
-
 <p align="center" style="margin: 20px;">
     <a href="https://github.com/Esponjosin" alt="GitHub"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/github.png"></a>
 </p>
+
+<p align ="center" style="margin: 20px;"><img src="https://komarev.com/ghpvc/?username=esponjosin&style=flat-square&label=Hyper+super+duper+ultra+deluxe+mega+tera+giga+penta+hexa+zetta+yotta+counter"></p>
 
 <details align="center">
     <p align="center">
