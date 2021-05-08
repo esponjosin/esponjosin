@@ -1,18 +1,16 @@
-<center>
-    <a align="center" href="https://esponjosin.xyz">
+<a align="center" href="https://esponjosin.xyz">
     <img class="image" src="https://esponjosin.xyz/assets/img/avatar.gif" style="border-radius:60px;" width="120" height="120">
-    </a>
+</a>
 
-   <p align="center" style="margin: 20px;">
+<p align="center" style="margin: 20px;">
     <a href="https://github.com/Esponjosin" alt="GitHub"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/github.png"></a>
-   </p>
+</p>
 
-<details>
+<details align="center">
     <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=esponjosin&show_icons=true&theme=tokyonight" />
     </p>
 </details>
-</center>
 
 <p align="center" style="margin: 20px;">My Code:</p>
 
