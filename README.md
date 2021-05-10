@@ -29,7 +29,7 @@ export default class Esponjosin extends Person {
     private age: number
     private sleeping: boolean
 
-    constructor(realname: string, internetname: string, age: string) {
+    constructor(realname: string, internetname: string, age: number) {
         
         this._realname = realname;
         this._internetname = internetname;
