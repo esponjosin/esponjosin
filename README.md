@@ -2,7 +2,7 @@
     <img align="center" class="image" src="https://esponjosin.com/assets/img/avatar.gif" style="border-radius:60px;" width="120" height="120">
 </p>
 
-<p align="center" style="margin: 20px;">
+<p align="center" style="margin: 20px; width:10px;">
     <a href="https://github.com/Esponjosin" alt="GitHub"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></a>
 </p>
 
