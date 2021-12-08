@@ -1,5 +1,5 @@
-<p align="center" href="https://esponjosin.xyz">
-    <img align="center" class="image" src="https://esponjosin.xyz/assets/img/avatar.gif" style="border-radius:60px;" width="120" height="120">
+<p align="center" href="https://esponjosin.com">
+    <img align="center" class="image" src="https://esponjosin.com/assets/img/avatar.gif" style="border-radius:60px;" width="120" height="120">
 </p>
 
 <p align="center" style="margin: 20px;">
