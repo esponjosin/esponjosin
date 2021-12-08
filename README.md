@@ -3,7 +3,7 @@
 </p>
 
 <p align="center" style="margin: 20px;">
-    <a href="https://github.com/Esponjosin" alt="GitHub"><img style="width:10px;" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></a>
+    <a href="https://github.com/Esponjosin" alt="GitHub"><img style="width:20px;" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></a>
 </p>
 
 <details align="center">
